@@ -1,0 +1,17 @@
+.dashch {
+  display: inline-block;
+}
+.child {
+  padding-left: 50px;
+  display: inline-block;
+}
+.dash {
+  margin-top: -650px;
+  margin-left: 225px;
+}
+.dashch1 {
+  display: inline-block;
+  margin-left: 600px;
+  text-align: justify;
+  margin-bottom: 20px;
+}

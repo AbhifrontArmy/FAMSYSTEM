@@ -1,0 +1,26 @@
+.sidebar {
+  width: 200px;
+  height: 670px;
+  background-color: lightblue;
+}
+.list {
+  cursor: pointer;
+  padding: 10px;
+  display: inline-block;
+}
+
+.fa-tasks:hover {
+  color: rgb(255, 0, 0) !important;
+}
+.fa-user:hover {
+  color: rgb(255, 0, 0) !important;
+}
+.fa-briefcase:hover {
+  color: rgb(255, 0, 0) !important;
+}
+.fa-user-circle:hover {
+  color: rgb(255, 0, 0) !important;
+}
+.fa-sign-out:hover {
+  color: rgb(255, 0, 0) !important;
+}
